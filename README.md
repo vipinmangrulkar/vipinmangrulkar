@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vipin3301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipin3301" height="30" width="40" /></a>
+<a href="https://twitter.com/vipinmangrulkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipin3301" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vipin-mangrulkar-127b21165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipin-mangrulkar-127b21165/" height="30" width="40" /></a>
 <a href="https://fb.com/vipinmangrulkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vipinmangrulkar" height="30" width="40" /></a>
 <a href="https://instagram.com/vipinnnnnnnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipinnnnnnnnn" height="30" width="40" /></a>
